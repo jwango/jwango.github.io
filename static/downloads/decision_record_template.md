@@ -1,4 +1,4 @@
-# [CAT-NNN] Short title with a category and incremental number (NNN) tag
+# [CAT-NNN] Short title with a category (CAT) and incremental number (NNN) tag
 
 **Author(s)**: The author(s) / originator(s) of the decision record  
 **Status**: Request for comments | Proposed | Accepted | Rejected  
@@ -14,17 +14,18 @@ Include any relevant primers, pre-requisite, or supporting documents to help the
 
 ### Details
 
-Provide relevant details that help frame the problem and its importance.
-Give more context on the problem and include relevant primers or pre-requisites
+Provide relevant details and context that help frame the problem and its importance.   
 
 ## Requirements
 
 List out the requirements of the problem, such as constraints and criteria.
 Additionally, state important assumptions made as part of this decision-making process.
+Clearly state the problem in such a way that a proposed solution can be verified.  
 
 ## Options
 
-List out the options for consideration. State how this list of options was compiled.
+List out the options for consideration. State how this list of options was compiled.  
+Identify any similar or relevant problems that have already been solved.  
 
 ## Decision
 
